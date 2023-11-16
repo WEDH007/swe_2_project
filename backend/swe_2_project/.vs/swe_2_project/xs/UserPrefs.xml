@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{24F463A8-4519-4003-B414-0966418C4763}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="swe_2_project/Models/Users.cs">
+    <Files>
+      <File FileName="swe_2_project/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="swe_2_project/Models/Users.cs" Line="11" Column="1" />
+      <File FileName="swe_2_project/Models/UserRegisterDto.cs" Line="9" Column="42" />
+      <File FileName="swe_2_project/Models/UserLoginDto.cs" Line="12" Column="45" />
+      <File FileName="swe_2_project/Controllers/UsersController.cs" Line="21" Column="1" />
+      <File FileName="swe_2_project/Data/swe_2DbContext.cs" Line="17" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="swe_2_project" expanded="True">
+            <Node name="swe_2_project">
+              <Node name="Models">
+                <Node name="Users.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.swe__2__project PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
